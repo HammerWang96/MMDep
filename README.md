@@ -1,3 +1,1 @@
-The code and dataset for our paper: Modeling Multi-Seasonal Multi-Behavior Dependency for Temporal Recommendation. We have implemented our methods in Pytorch.
-  Dependencies:Python 3.8 
-Then you can run the file train.py to train and test our model.
+The code and dataset for our paper titled "Modeling Multi-Seasonal Multi-Behavior Dependency for Temporal Recommendation" are now available. Our methods have been meticulously implemented using PyTorch. The environment requirements are as follows: Python 3.8. To get started, simply run the file `train.py`, and you will be able to train and test our model effortlessly.
